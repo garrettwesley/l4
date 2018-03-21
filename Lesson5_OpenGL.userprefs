@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Smart_HUD2.cs">
+    <Files>
+      <File FileName="Assets/Smart_HUD2.cs" Line="549" Column="3" />
+      <File FileName="Assets/Smart_HUD4.cs" Line="153" Column="1" />
+      <File FileName="../working_lesson2/Assets/Lesson1Assets/Smart_HUD2.cs" Line="18" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

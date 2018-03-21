@@ -1,0 +1,68 @@
+{
+  "CameraLocationX": 2.9,
+  "CameraLocationY": 3.4,
+  "CameraLocationZ": -1.99,
+  "CameraLookAtX": 2.85,
+  "CameraLookAtY": 3.5,
+  "CameraLookAtZ": 0,
+
+  "EasyLesson": [
+    {
+      "Message": "Message 1 of 5\n\nThe atom is the building block of all matter.  It is composed of three parts.\n\nAt the center, is the nucleus.  It contains protons and neutrons."
+    },
+
+    {
+      "Message": "Message 2 of 5\n\nAround the nucleus are electron orbitals (paths) that contain electrons.\n\nThese orbitals can have complex 3D shapes, but here they are represented as circles."
+    },
+
+    {
+      "Message": "Message 3 of 5\n\nIn the image shown, there are two orbitals, one is the inner ring, the second is the outer ring.\n\nThe electrons that sit in these orbitals spin around the nucleus and have very important properties."
+    },
+    {
+      "Message": "Message 4 of 5\n\nThe most important property for this lesson is that electron can jump  between orbitals (from one ring to another)."
+    },
+     {
+      "Message": "Message 5 of 5\n\nWhen energy is applied to the atom, the electron moves from the lowest to highest orbital, trapping that energy for a short time. Press Exit and locate the experiment stage."
+    }
+  ],
+
+    "MediumLesson": [
+    {
+      "Message": "Message 1 of 5\n\nThe atom is the building block of all matter.  It is composed of three parts.\n\nAt the center, is the nucleus.  It contains positively charged protons and neutrons which carry no charge."
+    },
+
+    {
+      "Message": "Message 2 of 5\n\nAround the nucleus are negatively charged particles called electrons that orbit in patterns set by their mathematical properties."
+    },
+
+    {
+      "Message": "Message 3 of 5\n\nThe simplest orbital, the s orbital, has a spherical shape and is represented here as a circle.\n\nShown are the two lowest energy orbitals of helium, 1s and 2s."
+    },
+    {
+      "Message": "Message 4 of 5\n\nThe most important property for this lesson is that electrons can transition (jump) between orbitals (from one ring to another)."
+    },
+     {
+      "Message": "Message 5 of 5\n\nWhen energy is applied to the atom, the electron is excited from the 1s to the 2s orbital for a short period of time.\n\nPress Exit and locate the experiment stage."
+    }
+  ],
+
+    "HardLesson": [
+    {
+      "Message": "Message 1 of 5\n\nThe atom is the building block of all matter.  It is composed of three parts.\n\nAt the center, is the nucleus.  It contains positively charged protons and neutrons which carry no charge."
+    },
+
+    {
+      "Message": "Message 2 of 5\n\n Around the nucleus, there are negatively charged electrons that orbit in patterns set by their quantum mechanical properties."
+    },
+
+    {
+      "Message": "Message 3 of 5\n\n Shown here are the two lowest s orbitals of He, 1s and 2s.  Only the 1s is populated with electrons in the ground state."
+    },
+    {
+      "Message": "Message 4 of 5\n\nElectrons can transition between the orbitals when energy is applied."
+    },
+     {
+      "Message": "Message 5 of 5\n\nWhen energy is applied to the system, the electron is excited from the 1s to the 2s energy level.\n\nThe 2s orbital is only populated for a short period of time, after which the electron returns to the ground state.\n\nPress Exit and locate the experiment stage."
+    }
+  ]
+}

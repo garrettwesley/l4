@@ -1,0 +1,50 @@
+{
+  "CameraLocationX": 2.9,
+  "CameraLocationY": 3.4,
+  "CameraLocationZ": -1.99,
+  "CameraLookAtX": 2.85,
+  "CameraLookAtY": 3.5,
+  "CameraLookAtZ": 0,
+
+  "EasyLesson": [
+    {
+      "Message": "Message 1 of 3\n\nJust like in the case of Helium, an excited Neon atom can release two photons of light when one photon collides with the Neon atom. This is also called stimulated emission."  
+    },
+
+    {
+      "Message": "Message 2 of 3\n\n These photons are coherent with one another, meaning they share the same wavelength, phase, and direction."
+    },
+
+    {
+      "Message": "Message 3 of 3\n\n Click on each wave to line them up \n producing a coherent wave."
+    }
+  ],
+
+  "MediumLesson": [
+    {
+      "Message": "Message 1 of 3\n\n Stimulated emission is also possible when a photon interacts with an excited Ne atom. When this occurs, a new photon with the same phase, frequency and direction is emitted by Ne."  
+    },
+
+    {
+      "Message": "Message 2 of 3\n\n Coherent photons share the same frequency, phase and direction."
+    },
+
+    {
+      "Message": "Message 3 of 3\n\n Click on each wave to line them up \n producing a coherent wave."
+    }
+  ],
+
+  "HardLesson": [
+    {
+      "Message": "Message 1 of 3\n\n Stimulated emission is also possible when a photon interacts with an excited Ne atom. When this occurs, a new photon with the same phase, frequency and direction is emitted by Ne."  
+    },
+
+    {
+      "Message": "Message 2 of 3\n\n Coherent photons share the same frequency, phase, polarization, and direction."
+    },
+
+    {
+      "Message": "Message 3 of 3\n\n Click on each wave to line them up \n producing a coherent wave."
+    }
+  ]
+}
